@@ -1,29 +1,11 @@
 {
-    "date":{ "date": "25/10/2017"},
-    "events": [
-        { 
-            "id": 1, 
-            "title": "Evento teste", 
-            "speaker": "Palestrante 1", 
-            "type": "Palestra", 
-            "institution": "Instituição 1", 
-            "location": "Sala1" 
-        },
-        {
-            "id": 2, 
-            "title": "Evento 2", 
-            "speaker": "Palestrante 2", 
-            "type": "Oficina", 
-            "institution": "Instituição 2", 
-            "location": "Sala2" 
-        },
-        {
-            "id": 3, 
-            "title": "Evento 3", 
-            "speaker": "Palestrante 3", 
-            "type": "Seminário", 
-            "institution": "Instituição 3", 
-            "location": "Sala3" 
-        }        
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
